@@ -58,7 +58,7 @@
               <a href="#service" class="read_more2">Read more</a> </div>
           </div>
           <div>
-			<img src="/home/likewise-open/AMRITAVIDYA/u4cse15111/Desktop/Creative-free-responsive-html5-business-template/img/amma.jpeg" class="bannerImg zoomIn wow animated" alt="" />
+			<img src="img/amma.jpeg" class="bannerImg zoomIn wow animated" alt="" />
 		  </div>
         </div>
       </div>
@@ -73,7 +73,7 @@
     <h2>About Us</h2>
     <div class="inner_section">
 	<div class="row">
-      <div class=" col-lg-14 col-md-14 col-sm-4 col-xs-16 pull-right"><img src="/home/likewise-open/AMRITAVIDYA/u4cse15111/Desktop/Creative-free-responsive-html5-business-template/img/clg.jpeg" class="img-circle delay-03s animated wow zoomIn" alt=""></div>
+      <div class=" col-lg-14 col-md-14 col-sm-4 col-xs-16 pull-right"><img src="img/clg.jpeg" class="img-circle delay-03s animated wow zoomIn" alt=""></div>
       	<div class=" col-lg-14 col-md-7 col-sm-7 col-xs-12 pull-left">
         	<div class=" delay-01s animated fadeInDown wow animated">
 			<h3>AMRITA UNIVERSITY is going to conduct a big  hacking competetion......</h3><br/> 
@@ -310,7 +310,7 @@
 								<div class="member-container" data-wow-delay=".1s">
 									<div class="inner-container">
 										<div class="author-avatar">									
-											<img class="img-circle" src="/home/likewise-open/AMRITAVIDYA/u4cse15111/Desktop/Creative-free-responsive-html5-business-template/img/akhi.jpg" alt="Team Menber">
+											<img class="img-circle" src="img/akhi.jpg" alt="Team Menber">
 										</div><!-- /.author-avatar -->
 
 										<div class="member-details">
@@ -482,7 +482,7 @@ A.Akhilesh												</h4>
 <script type="text/javascript" src="js/custom.js"></script>
  <style>
       #map {
-        width: 500px;
+        width: 1400px;
         height: 400px;
         position: middle;  
       }
