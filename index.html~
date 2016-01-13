@@ -37,8 +37,12 @@
 			  <li><a href="#clients" class="scroll-link">prizes</a></li>
 			  <li><a href="#team" class="scroll-link">Team</a></li>
 			  <li><a href="#contact" class="scroll-link">Contact</a></li>
-			</ul>
-      </div>
+
+			<li><a href="" class="scrol-link">Register</a></li>
+
+</ul>
+    
+</div>
 	 </nav>
     </div>
   </div>
@@ -417,7 +421,7 @@ Tony Thomas
 												</span>
 											</div><!-- /.member-top -->
 											<p>
-												 MARK is a C.E.O for a company called FACEBOOK-TECH.which is the leading company in world.He is one of the passedout product from AMRITA.
+												 Vipin is a C.E.O for a company called FACEBOOK-TECH.which is the leading company in world.He is one of the passedout product from AMRITA.
 											</p>
 											<div class="member-social-link">
 												<a href="#" class="twitter-btn"><i class="fa fa-twitter"></i></a>
