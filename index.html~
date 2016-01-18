@@ -23,7 +23,7 @@
 <header id="header_wrapper">
   <div class="container">
     <div class="header_box">
-      <div class="logo"><a href="#"><img src="img/HA.jpeg" alt="HACK A THON"></a></div>
+      <div class="logo"><a href="#"><img src="img/HA.jpeg" alt="HACK A THON" style="width:15em;height:50px;"></a></div>
 	  <nav class="navbar navbar-inverse" role="navigation">
       <div class="navbar-header">
         <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
@@ -53,16 +53,18 @@
 <section id="hero_section" class="top_cont_outer">
   <div class="hero_wrapper">
     <div class="container">
+<div style='height:50px'></div>
+;<div id='to-be-sized' ></div><br>
       <div class="hero_section">
         <div class="row">
           <div class="col-lg-5 col-sm-7">
             <div class="top_left_cont zoomIn wow animated"> 
-              <h2>Who is the professinal  <strong>HACKER</strong> in 2016</h2>
+              <h2>Who is the professional  <strong>HACKER</strong> in 2016</h2>
               <p>Let's see who is going to crack this  2016 in <strong>AMRITA SCHOOL OF ENGINEERING</strong>  competetion.There are highclass sponsers for this hacking competetion  </p>
               <a href="#service" class="read_more2">Read more</a> </div>
           </div>
           <div>
-			<img src="img/H1.jpeg" class="bannerImg zoomIn wow animated" alt=""height="430" width="650" />
+			<img src="img/H1.jpeg" class="bannerImg zoomIn wow animated" alt=""height="500px" width="650px" />
 		  </div>
         </div>
       </div>
@@ -74,6 +76,7 @@
 <section id="aboutUs"><!--Aboutus-->sec
 <div class="inner_wrapper">
   <div class="container">
+
     <h2>About Us</h2>
     <div class="inner_section">
 	<div class="row">
